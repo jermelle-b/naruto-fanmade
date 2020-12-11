@@ -80,18 +80,19 @@ mob
 
 mob
 	Clone
-		icon='icons/male.dmi'
+		icon='icons/mob/male.dmi'
 		health=80
-		maxhp=100
+		maxHealth=100
 		chakra=100
-		maxcha=100
+		maxChakra=100
 		stamina=100
-		maxsta=100
+		maxStamina=100
 		ninjutsu=0
 		taijutsu=0
 		genjutsu=0
-		etai=100
-		enin=10
-		egen=10
+		earnedTaijutsu=100
+		earnedNinjutsu=10
+		earnedGenjutsu=10
 		endurance=10
 		Clone=1
+		AWA=1
