@@ -1,2 +1,2 @@
 # naruto-fanmade
-Fanmade naruto game built using Byond game engine.
+This is a fan-made project I've created a litle over 10 years ago.
