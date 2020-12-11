@@ -1,0 +1,19 @@
+<html>
+<head>
+
+</head>
+<body>
+    <div id="main" byondclass="child" skinparams="left=map;right=output;splitter=90;is-vert=true">
+        <div id="map" byondclass="map"></div>
+        <div id="output" byondclass="output"></div>
+    </div>
+    <div id="input" byondclass="input"></div>
+</body>
+</html>
+
+
+macro
+  West+REP return ".west"
+  CTRL+S return "say"
+  CTRL+Z return "sleep"
+  CTRL+Z+UP return "stopsleep"

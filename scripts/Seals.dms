@@ -1,0 +1,15 @@
+macro
+
+	q return "Rat"
+	w return "Ox"
+	e return "Tiger"
+	r return "Rabbit"
+	a return "Dragon"
+	s return "Snake"
+	d return "Horse"
+	f return "Ram"
+	z return "Monkey"
+	x return "Bird"
+	c return "Dog"
+	v return "Boar"
+	space return "Execute"

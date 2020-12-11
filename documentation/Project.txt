@@ -1,0 +1,34 @@
+Working title:
+Naruto Fanmade
+
+Target platform(s):
+Byond
+Online (web server)
+
+Appeal / Gameplay experience and genre:
+Unique charecter system based on naruto universe.
+
+Core system:
+Health: Keeps player alive, regenerates automatically
+Charka: Used for various justus, regenerates automatically
+Stamina: Used for taijutsu, regenerates automatically
+
+Reserve system:
+Based on certaint techniques and inheriate abilites player is
+allowed to increase their chakra or stamina at a faster rate by
+diminishing their reserve.
+
+Positioning / When and where the game will release:
+TBA
+
+Audience / Intended player segments/demographics:
+TBA
+
+Scope / Key features of design, mechanics and engagement:
+TBA
+
+Theme / Proposed look and feel:
+TBA
+
+Supporting visuals / Screenshots, visuals or concept art:
+TBA

@@ -1,0 +1,33 @@
+// DM Environment file for naruto2.dme.
+// All manual changes should be made outside the BEGIN_ and END_ blocks.
+// New source code should be placed in .dm files: choose File/New --> Code File.
+
+// BEGIN_INTERNALS
+// END_INTERNALS
+
+// BEGIN_FILE_DIR
+#define FILE_DIR .
+// END_FILE_DIR
+
+// BEGIN_PREFERENCES
+// END_PREFERENCES
+
+// BEGIN_INCLUDE
+#include "map\Map.dmm"
+#include "scripts\Seals.dms"
+#include "scripts\web.dms"
+#include "source\Click2Move.dm"
+#include "source\hud.dm"
+#include "source\level up.dm"
+#include "source\Main.dm"
+#include "source\movement.dm"
+#include "source\neversave.dm"
+#include "source\npc.dm"
+#include "source\obj.dm"
+#include "source\push.dm"
+#include "source\seals.dm"
+#include "source\Systems.dm"
+#include "source\techs.dm"
+#include "source\vars.dm"
+// END_INCLUDE
+

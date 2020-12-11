@@ -1,0 +1,7 @@
+/
+- game.dme
+/source
+/map
+/icons
+/interface
+/script
